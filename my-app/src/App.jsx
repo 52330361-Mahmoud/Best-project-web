@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Cards from './Components/Cards';
 import Navbar from './Components/Navbar';
-import Footer from './Components/footer';
+import Footer from './Components/Footer';
 import Home from "./pages/Home";
 import BMW from './pages/BMW';
 import Mercedes from './pages/Mercedes';
