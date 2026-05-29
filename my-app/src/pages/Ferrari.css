@@ -1,0 +1,15 @@
+.Ferrari{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   gap:30px;
+   justify-items: center;
+   padding: 30px;
+}
+.page-title1{
+
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:sans-serif;
+}

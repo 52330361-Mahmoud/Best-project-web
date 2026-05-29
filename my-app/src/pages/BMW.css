@@ -1,0 +1,12 @@
+.card-box{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   gap:30px;
+   justify-items: center;
+   padding: 30px;
+}
+.page-title{
+
+    text-align: center;
+    margin: 20px;
+}

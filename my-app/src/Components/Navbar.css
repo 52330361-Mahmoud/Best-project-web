@@ -1,0 +1,19 @@
+.navbar-brand{
+
+color:#FF6600;
+font-weight: BOLD;
+letter-spacing: 2PX;
+font-size: 25px;
+
+
+}
+.nav-link:hover{
+    color: #FF6600;
+    border-bottom: 2px solid #FF6600;
+    transition: 0.3s;
+
+
+}
+
+
+
